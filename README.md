@@ -1,1 +1,1 @@
-# baeda_minjok_food_delivery
+# baedal_minjok_food_delivery
