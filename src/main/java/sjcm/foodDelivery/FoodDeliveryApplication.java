@@ -1,4 +1,4 @@
-package sjcm.food_delivery;
+package sjcm.foodDelivery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

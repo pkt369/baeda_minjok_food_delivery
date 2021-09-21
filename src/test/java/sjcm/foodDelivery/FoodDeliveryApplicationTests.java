@@ -1,4 +1,4 @@
-package sjcm.food_delivery;
+package sjcm.foodDelivery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
